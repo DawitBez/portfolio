@@ -19,7 +19,7 @@ export const Hero = () => {
         <div className='hero-content text-center text-neutral-content'>
           <div className=''>
             <h2 className='text-3xl py-2 dark:text-white font-medium md:text-6xl tracking-wider font-mono'>
-              Hi, I'm Dawit
+              Hi, I&apos;m Dawit
             </h2>
             <h1 className='font-extrabold  py-2 leading-8 dark:text-cyan-600 md:text-xl max-w-xl mx-auto font-poppins tracking-widest'>
               <Typewriter
